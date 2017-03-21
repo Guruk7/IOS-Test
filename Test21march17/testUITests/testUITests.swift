@@ -34,6 +34,12 @@ class testUITests: XCTestCase {
         sg';sgdDG>;kg
         DG/dg?
         gsxff'
+        
+        oo[]o[][o][]o
+        p
+        
+        p[
+        p[]p[]p[]p[]]
         // Use recording to get started writing UI tests.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
